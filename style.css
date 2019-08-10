@@ -1,0 +1,36 @@
+
+#main {
+	text-align:center;
+	margin:50px auto;
+}
+
+#res {
+	text-align:center;
+	margin:50px auto;
+}
+
+.r {
+	text-align:center;
+	margin:50px auto;
+}
+
+#err {
+	color:red;
+	margin:20px;
+}
+
+button {
+	margin-right:5px;
+}
+
+table {
+	margin:40px auto;
+}
+
+td {
+	padding:5px;
+}
+
+.b {
+	font-weight:bold;
+}
